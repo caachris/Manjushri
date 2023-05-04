@@ -1,0 +1,17 @@
+.vlr {
+    writing-mode: vertical-lr;
+}
+html {
+    font-size: 22px;
+    background-color: #ffebcd;
+}
+body {
+    font-family: DFKai-sb; 
+    font-weight: 400;
+}
+h1 {
+    text-align: center;
+}
+p {
+    line-height: 1.5;
+}
