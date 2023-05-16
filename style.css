@@ -1,0 +1,33 @@
+html {
+    font-size: 22px;
+    background-color: #ffebcd;
+}
+body {
+    font-family: DFKai-sb; 
+    font-weight: 400;
+}
+h1 {
+    text-align: center;
+}
+h3{
+    margin-left: 20px;
+}
+p {
+    line-height: 1.5;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.label {
+    border: 2px solid black;
+    width: 270px;
+    text-align: center;
+    float: right;
+    width: auto;
+}
+.tableofcontent {
+    
+    float: left;
+}
+a {
+    text-decoration:none;
+}
