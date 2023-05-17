@@ -6,6 +6,7 @@ body {
     font-family: DFKai-sb; 
     font-weight: 400;
 }
+
 h1 {
     text-align: center;
     viewport-fit: auto;
@@ -22,13 +23,10 @@ p {
     border: 2px solid black;
     width: 270px;
     text-align: center;
-    float: right;
     width: auto;
-}
-.tableofcontent {
-    
     float: left;
 }
+
 a:link{
     text-decoration:none;
 }
