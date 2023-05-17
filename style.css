@@ -8,6 +8,7 @@ body {
 }
 h1 {
     text-align: center;
+    viewport-fit: auto;
 }
 h3{
     margin-left: 20px;
@@ -28,6 +29,13 @@ p {
     
     float: left;
 }
-a {
+a:link{
     text-decoration:none;
 }
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    color: blue;
+}
+
