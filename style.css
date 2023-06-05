@@ -1,5 +1,5 @@
 html {
-    font-size: 22px;
+    font-size: 1.5rem;
     background-color: #ffebcd;
 }
 body {
@@ -7,13 +7,15 @@ body {
     font-weight: 400;
 }
 
+
 h1 {
     text-align: center;
     viewport-fit: auto;
 }
-h3{
+h3, h4{
     margin-left: 20px;
 }
+
 p {
     line-height: 1.5;
     margin-left: 20px;
@@ -37,4 +39,3 @@ a:visited {
     color: blue;
 }
 
- 
