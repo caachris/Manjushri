@@ -12,12 +12,12 @@ h1 {
     text-align: center;
     viewport-fit: auto;
 }
-h3, h4{
+h2, h3, h4{
     margin-left: 20px;
 }
 
 p {
-    line-height: 1.5;
+    line-height: 2;
     margin-left: 20px;
     margin-right: 20px;
 }
