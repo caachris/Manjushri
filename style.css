@@ -3,7 +3,7 @@ html {
     background-color: #ffebcd;
 }
 body {
-    font-family: DFKai-sb; 
+    font-family:  "微軟正黑體", Microsoft JhengHei;
     font-weight: 400;
 }
 
@@ -17,7 +17,7 @@ h2, h3, h4{
 }
 
 p {
-    line-height: 2;
+    line-height: 1.4;
     margin-left: 20px;
     margin-right: 20px;
 }
