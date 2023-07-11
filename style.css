@@ -1,10 +1,15 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+
 html {
     font-size: 1.5rem;
     background-color: #ffebcd;
 }
+
+
+
 body {
-    font-family:  "微軟正黑體", Microsoft JhengHei;
-    font-weight: 400;
+    font-family: "cwTeXKai", serif;
+    font-weight: 300;
 }
 
 
