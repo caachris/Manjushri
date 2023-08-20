@@ -26,13 +26,6 @@ p {
     margin-left: 20px;
     margin-right: 20px;
 }
-.label {
-    border: 2px solid black;
-    width: 270px;
-    text-align: center;
-    width: auto;
-    float: left;
-}
 
 a:link{
     text-decoration:none;
